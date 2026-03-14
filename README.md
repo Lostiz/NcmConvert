@@ -92,5 +92,5 @@ NcmConvert/
 
 ## 致谢
 
-- [ncmdump](https://github.com/anonymous5l/ncmdump) - NCM 格式解密算法原始实现（Go）（已删库）
-- [ncmdump](https://github.com/taurusxin/ncmdump) - NCM 格式解密参考
+- [anonymous5l](https://github.com/anonymous5l) - NCM 格式解密算法原始实现（Go）（已删库）
+- [taurusxin](https://github.com/taurusxin/ncmdump) - NCM 格式解密参考

@@ -1,0 +1,20 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for the application",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "dialog:default",
+    "shell:allow-spawn",
+    "shell:allow-execute",
+    {
+      "identifier": "shell:allow-open",
+      "allow": [
+        {
+          "path": "$RESOURCE/**",
+          "sidecar": true
+        }
+      ]
+    }
+  ]
+}
